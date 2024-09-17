@@ -1,5 +1,5 @@
-## [Project Structure](https://www.google.com/)
- <a href="https://www.google.com/" target="_blank">Laravel’s file storage system</a>.
+## [Project Structure](https://robust-heart-fc3.notion.site/Multivendor-Ecommerce-103c4058ab58804c9e0fea90cd74ff2d)
+
 This Laravel project follows the standard directory structure for a Laravel application. Here's a brief overview of the folder and file structure:
 
 ### Folders
