@@ -1,4 +1,4 @@
-## Project Structure
+## [Project Structure](https://www.google.com/)
 
 This Laravel project follows the standard directory structure for a Laravel application. Here's a brief overview of the folder and file structure:
 
