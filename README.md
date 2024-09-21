@@ -88,7 +88,7 @@
   - Customize the build process in the `webpack.mix.js` file for CSS and JavaScript compilation.
 
   ### Asset Versioning
-  - Manage browser caching by versioning assets with unique hashes using Laravel Mix.
+  - Manage browser caching by versioning assets with unique hashes using vite.config.js.
 
   ### Efficient Workflow
   - Streamlines asset management, ensuring performance and maintainability in your Laravel application.
